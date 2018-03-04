@@ -1,13 +1,13 @@
 # React Date Picker
 
-[![npm](https://img.shields.io/npm/v/react-datepicker2.svg)](https://www.npmjs.com/package/react-datepicker2)
-[![npm](https://img.shields.io/npm/dt/react-datepicker2.svg)](https://www.npmjs.com/package/react-datepicker2)
-[![Build Status](https://travis-ci.org/mberneti/react-datepicker2.svg?branch=master)](https://travis-ci.org/mberneti/react-datepicker2)
-[![CircleCI](https://circleci.com/gh/mberneti/react-datepicker2.svg?style=svg)](https://circleci.com/gh/mberneti/react-datepicker2)
+[![npm](https://img.shields.io/npm/v/react-datepicker-fa.svg)](https://www.npmjs.com/package/react-datepicker-fa)
+[![npm](https://img.shields.io/npm/dt/react-datepicker-fa.svg)](https://www.npmjs.com/package/react-datepicker-fa)
+[![Build Status](https://travis-ci.org/savalanpour/react-datepicker-fa.svg?branch=master)](https://travis-ci.org/savalanpour/react-datepicker-fa)
+[![CircleCI](https://circleci.com/gh/savalanpour/react-datepicker-fa.svg?style=svg)](https://circleci.com/gh/savalanpour/react-datepicker-fa)
 
-A simple and reusable Datepicker component for React (with persian jalali calendar support) [Demo](https://mberneti.github.io/react-datepicker2/).
+A simple and reusable Datepicker component for React (with persian jalali calendar support) [Demo](https://savalanpour.github.io/react-datepicker-fa/).
 
-![](https://mberneti.github.io/react-datepicker2/images/react-datepicker2.gif)
+![](https://savalanpour.github.io/react-datepicker-fa/images/react-datepicker-fa.gif)
 
 This package uses [react-persian-datepicker](https://github.com/evandhq/react-persian-datepicker) project under the hood.
 
@@ -94,4 +94,4 @@ I'd be happy to accept PRs for that.
 
 ## License
 
-Copyright (c) 2016 [mberneti](https://twitter.com/mberneti) Inc. and individual contributors. Licensed under MIT license, see [LICENSE](LICENSE) for the full license.
+Copyright (c) 2016 [savalanpour](https://twitter.com/savalanpour) Inc. and individual contributors. Licensed under MIT license, see [LICENSE](LICENSE) for the full license.

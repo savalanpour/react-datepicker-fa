@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["react-datepicker2"] = factory();
+		exports["react-datepicker-fa"] = factory();
 	else
-		root["react-datepicker2"] = factory();
+		root["react-datepicker-fa"] = factory();
 })(this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -30666,7 +30666,7 @@ exports.default = _react2.default.createClass({
               _react2.default.createElement(
                 'h3',
                 { className: 'logo' },
-                'mberneti'
+                'savalanpour'
               )
             )
           ),
@@ -30717,8 +30717,8 @@ exports.default = _react2.default.createClass({
       ),
       _react2.default.createElement(
         'a',
-        { href: 'https://github.com/mberneti/react-datepicker2/' },
-        _react2.default.createElement('img', { className: 'github-ribbon', src: 'https://mberneti.github.io/react-datepicker2/images/ribbon.png', alt: 'Fork me on GitHub' })
+        { href: 'https://github.com/savalanpour/react-datepicker-fa' },
+        _react2.default.createElement('img', { className: 'github-ribbon', src: 'https://savalanpour.github.io/react-datepicker-fa/images/ribbon.png', alt: 'Fork me on GitHub' })
       )
     );
   }
@@ -32249,7 +32249,7 @@ var Heading = function (_Component) {
         _react2.default.createElement(
           'button',
           { className: styles.title, onClick: this.handleMonthClick.bind(this) },
-          this.props.isGregorian ? month.locale('en').format('MMMM YYYY') : (0, _persian.persianNumber)(month.locale('fa').format('jMMMM jYYYY'))
+          this.props.isGregorian ? month.locale('fa').format('MMMM YYYY') : (0, _persian.persianNumber)(month.locale('fa').format('jMMMM jYYYY'))
         ),
         _react2.default.createElement('button', {
           type: 'button',

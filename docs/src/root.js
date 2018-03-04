@@ -15,7 +15,7 @@ export default React.createClass({
             </h1>
             <div className="hero__crafted-by">
               <a href="https://berneti.ir" className="hero__crafted-by-link">
-                Crafted by <h3 className="logo">mberneti</h3>
+                Crafted by <h3 className="logo">savalanpour</h3>
               </a>
             </div>
             <div className="hero__example">
@@ -35,8 +35,8 @@ export default React.createClass({
           <ExampleComponents />
         </div>
 
-        <a href="https://github.com/mberneti/react-datepicker2/">
-          <img className="github-ribbon" src="https://mberneti.github.io/react-datepicker2/images/ribbon.png" alt="Fork me on GitHub" />
+        <a href="https://github.com/savalanpour/react-datepicker-fa">
+          <img className="github-ribbon" src="https://savalanpour.github.io/react-datepicker-fa/images/ribbon.png" alt="Fork me on GitHub" />
         </a>
       </div>
     )

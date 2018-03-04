@@ -28,7 +28,7 @@ export default class Heading extends Component {
     return (
       <div className={styles.heading}>
         <button className={styles.title} onClick={this.handleMonthClick.bind(this)}>
-          {this.props.isGregorian? month.locale('en').format('MMMM YYYY'):persianNumber(month.locale('fa').format('jMMMM jYYYY')) }
+          {this.props.isGregorian? month.locale('fa').format('MMMM YYYY'):persianNumber(month.locale('fa').format('jMMMM jYYYY')) }
         </button>
         <button
           type="button"
