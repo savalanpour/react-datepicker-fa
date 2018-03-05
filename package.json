@@ -1,17 +1,17 @@
 {
   "name": "react-datepicker-fa",
-  "version": "v1.0.1",
+  "version": "v1.0.3",
   "description": "react datepicker component. (include persian jalaali calendar)",
   "main": "dist/index.js",
-  "style": "dist/react-datepicker2.min.css",
+  "style": "dist/react-datepicker-fa.min.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mberneti/react-datepicker2"
+    "url": "https://github.com/savalanpour/react-datepicker-fa"
   },
   "keywords": [
     "react",
     "react-datepicker",
-    "react-datepicker2",
+    "react-datepicker-fa",
     "react-jalaali-datepicker",
     "jalaali-datepicker",
     "jalaali",

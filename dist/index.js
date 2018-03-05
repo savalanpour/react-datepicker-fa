@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define(["react", "react-dom"], factory);
 	else if(typeof exports === 'object')
-		exports["react-datepicker2"] = factory(require("react"), require("react-dom"));
+		exports["react-datepicker-fa"] = factory(require("react"), require("react-dom"));
 	else
-		root["react-datepicker2"] = factory(root["React"], root["ReactDOM"]);
+		root["react-datepicker-fa"] = factory(root["React"], root["ReactDOM"]);
 })(this, function(__WEBPACK_EXTERNAL_MODULE_1__, __WEBPACK_EXTERNAL_MODULE_8__) {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -20984,7 +20984,7 @@ var Heading = function (_Component) {
         _react2.default.createElement(
           'button',
           { className: styles.title, onClick: this.handleMonthClick.bind(this) },
-          this.props.isGregorian ? month.locale('en').format('MMMM YYYY') : (0, _persian.persianNumber)(month.locale('fa').format('jMMMM jYYYY'))
+          this.props.isGregorian ? month.locale('fa').format('MMMM YYYY') : (0, _persian.persianNumber)(month.locale('fa').format('jMMMM jYYYY'))
         ),
         _react2.default.createElement('button', {
           type: 'button',
