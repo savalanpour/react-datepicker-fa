@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/react-datepicker-fa.svg)](https://www.npmjs.com/package/react-datepicker-fa)
 [![npm](https://img.shields.io/npm/dt/react-datepicker-fa.svg)](https://www.npmjs.com/package/react-datepicker-fa)
 [![Build Status](https://travis-ci.org/savalanpour/react-datepicker-fa.svg?branch=master)](https://travis-ci.org/savalanpour/react-datepicker-fa)
-[![CircleCI](https://circleci.com/gh/savalanpour/react-datepicker-fa.svg?style=svg)](https://circleci.com/gh/savalanpour/react-datepicker-fa)
+[![CircleCI](https://camo.githubusercontent.com/c1386597a2ed29a0e01cf57ee5fe0070e9c6941a/68747470733a2f2f636972636c6563692e636f6d2f67682f6d6265726e6574692f72656163742d646174657069636b6572322e7376673f7374796c653d737667)](https://circleci.com/gh/savalanpour/react-datepicker-fa)
 
 A simple and reusable Datepicker component for React (with persian jalali calendar support) [Demo](https://savalanpour.github.io/react-datepicker-fa/).
 
